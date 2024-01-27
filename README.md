@@ -1,9 +1,9 @@
 Project Name: Amazon Sales Analysis 
 
 Table of Contents
-Technologies Used: Jupyter Notebook, Power-Bi
-Architecture
-High-Level Design (HLD)
-Low-Level Design (LLD)
-Wireframes
-Power BI file 
+1. Technologies Used: Jupyter Notebook, Power-Bi
+2. Architecture
+3. High-Level Design (HLD)
+4. Low-Level Design (LLD)
+5. Wireframes
+6. Power BI file 
